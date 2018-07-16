@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![This is a picture of an anthropomorphized cat with a very big head](https://octodex.github.com/images/yaktocat.png)
