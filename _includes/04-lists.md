@@ -1,4 +1,3 @@
-- Cooking Specialties:
-  - Pesto
-  - Carne Asada
-  - Moqueca
+- George Washington
+- John Adams
+- Thomas Jefferson
